@@ -1,0 +1,5 @@
+.carousel-inner.onebyone-carosel { margin: auto; width: 100%; }
+.onebyone-carosel .active.left { left: -25.00%; }
+.onebyone-carosel .active.right { left: 25.00%; }
+.onebyone-carosel .next { left: 25.00%; }
+.onebyone-carosel .prev { left: -25.00%; }

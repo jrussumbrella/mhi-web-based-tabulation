@@ -1,0 +1,107 @@
+.header{
+    color: #fff;
+    background-color: #E53935;
+    border-color: #E53935;
+}
+.test{
+	font-family:20px;
+}
+
+.btnStyle{
+	text-align:center;
+}
+
+.i-am-centered { margin: auto; max-width: 500px;}
+
+.form { width: 250px; max-width: 250px; height: 50px; font-size: 20px; text-align: center}
+.login{
+     height: 50px;
+     font-size: 20px;
+}
+.lbl{
+	font-size:20px;
+	text-align: left;
+}
+.lbl2{
+	font-size:17px;
+}
+
+
+
+.logo{
+    margin-top: 10px;
+    width: 150px;
+    height: 130px;
+
+}
+
+.model{
+    width: 360px;
+    height: 380px;
+}
+
+.sample{
+     object-fit: cover;
+    width: 300px;
+    height: 400px;
+}
+
+.error{
+	color:red;
+    font-size: 18px;
+    padding: 5px;
+}
+
+div.text-container {
+    margin: 0 auto;
+    width: 75%;    
+}
+
+.hideContent {
+    overflow: hidden;
+    line-height: 1em;
+    height: 2em;
+}
+
+.showContent {
+    line-height: 1em;
+    height: auto;
+}
+.showContent{
+    height: auto;
+}
+
+h1 {
+    font-size: 24px;        
+}
+p {
+    padding: 10px 0;
+}
+.show-more {
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+hr
+{
+
+    height: 1px;
+}
+
+.custom {
+    width: 180px !important;
+    font-size: 20px;
+    margin: 10px;
+}
+.custom2 {
+    width: 200px !important;
+    font-size: 18px;
+    margin: 10px;
+}
+.custom1 {
+    width: 140px !important;
+    font-size: 18px;
+    margin: 10px;
+}
+
